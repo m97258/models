@@ -1,0 +1,42 @@
+values
+Age
+Number of Children
+Income
+Marital Status_Divorced
+Marital Status_Married
+Marital Status_Single
+Marital Status_Widowed
+Education Level_Associate Degree
+Education Level_Bachelor's Degree
+Education Level_High School
+Education Level_Master's Degree
+Education Level_PhD
+Smoking Status_Current
+Smoking Status_Former
+Smoking Status_Non-smoker
+Physical Activity Level_Active
+Physical Activity Level_Moderate
+Physical Activity Level_Sedentary
+Employment Status_Employed
+Employment Status_Unemployed
+Alcohol Consumption_High
+Alcohol Consumption_Low
+Alcohol Consumption_Moderate
+Dietary Habits_Healthy
+Dietary Habits_Moderate
+Dietary Habits_Unhealthy
+Sleep Patterns_Fair
+Sleep Patterns_Good
+Sleep Patterns_Poor
+History of Substance Abuse_No
+History of Substance Abuse_Yes
+Family History of Depression_No
+Family History of Depression_Yes
+Chronic Medical Conditions_No
+Chronic Medical Conditions_Yes
+Predicted Gender_female
+Predicted Gender_male
+Predicted Gender_unknown
+Last Name Origin_Asian
+Last Name Origin_Latin European
+Last Name Origin_Western European
